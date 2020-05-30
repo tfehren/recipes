@@ -1,8 +1,8 @@
 {
-  "id": "jitsi",
-  "name": "Jitsi",
-  "version": "1.0.3",
-  "description": "Jitsi",
+  "id": "jitsi_custom",
+  "name": "Jitsi Custom URL",
+  "version": "1.0.4",
+  "description": "Jitsi - Custom Server URL",
   "main": "index.js",
   "author": "Sampath Kumar Krishnan <sampath3493@gmail.com>",
   "license": "MIT",
@@ -10,6 +10,6 @@
   "config": {
     "serviceURL": "https://meet.jit.si/",
     "hasCustomUrl": true,
-    "message": "For the public instance, use https://meet.jit.si/ for the Custom server"
+    "message": "For the public instance, use https://meet.jit.si/ or the Jitsi Recipe"
   }
 }
